@@ -5,6 +5,7 @@ import {
   StyleSheet,
   View,
   Alert,
+  TouchableHighlight,
 } from 'react-native';
 
 import Info from '../components/Info';
